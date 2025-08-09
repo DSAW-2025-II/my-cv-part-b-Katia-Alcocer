@@ -1,4 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Sx8Ozf2d)
+
+- Katia Itzel Alcocer Aguilar
+- 0000375093
+- 
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -87,3 +92,4 @@ section {
 ¡Buena suerte y diviértanse creando su CV!
 
 <img width="1902" height="880" alt="image" src="https://github.com/user-attachments/assets/a25cd30d-dd9b-4452-bd05-28e9c0d85611" />
+<img width="1902" height="880" alt="iagenReference" src="image.png">
