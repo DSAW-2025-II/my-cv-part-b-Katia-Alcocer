@@ -2,7 +2,7 @@
 
 - Katia Itzel Alcocer Aguilar
 - 0000375093
-- 
+-  https://dsaw-2025-ii.github.io/my-cv-part-b-Katia-Alcocer/
 
 # Bienvenidos a la Tarea de HTML y CSS
 
