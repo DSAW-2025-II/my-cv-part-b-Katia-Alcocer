@@ -8,6 +8,33 @@ main {
    
    display: flex;
 }
+h1{
+    font-size: 3rem;
+    font-family: "Playwrite AU NSW", cursive;
+     font-optical-sizing: auto;
+     font-style: normal;
+    margin: 0;
+    padding: 0px 5px;
+    color: #4C0A57;
+    margin-bottom: 0;
+}
+
+h2 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.9rem;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: black;
+      margin-top: 10px;
+
+    }
+
+h2:first-of-type{
+    padding: 0px;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0%;
+}
 
 .left-column {
     background-color: #FCCFDC;
@@ -79,14 +106,50 @@ main ul li {
     margin: 0px;
     padding: 0px 10px;
 }
-
+.right-column section {
+    
+    margin: 0px;
+    padding: 0px 30px;
+}
 .left-column h3 {
     background-color: white; 
     padding: 4px 20px;
     margin-bottom: 0px; 
     font-size: 14px;
 }
+.right-column h3{
+    background-color: #FCCFDC; 
+    padding: 4px 20px;
+    margin-bottom: 0px; 
+    font-size: 14px;
+}
+h4{
+     padding: 0px 25px;
+     margin: 8px;
+     font-size: 13px;
+}
+h5{
+    padding: 0px 25px;
+    margin: 6px;
+    font-size: 10px;
+}
+.formation p{
 
+    padding: 0px 35px;
+    background-color: yellow;
+    margin: 6px;
+}
+.hobbies ul {
+  columns: 2;        /* Número de columnas */
+  column-gap: 20px;  /* Espacio entre columnas */
+}
+
+hr {
+    border: none;              
+    height: 4px;            
+    background-color: #FCCFDC; 
+    margin: 0px 0;            
+}
 
 
 
@@ -111,3 +174,19 @@ main ul li {
         border: 2px solid;  
     border-color: purple;
     }
+    .formation{
+        border: 2px solid;  
+    border-color: orange;
+    }
+.name{
+    border: 2px solid;
+    border-color: black;
+}
+.Experience{
+    border: 2px solid;
+    border-color: brown;
+}
+.hobbies{
+    border: 2px solid;
+    border-color: pink;
+}

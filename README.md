@@ -92,4 +92,6 @@ section {
 ¡Buena suerte y diviértanse creando su CV!
 
 <img width="1902" height="880" alt="image" src="https://github.com/user-attachments/assets/a25cd30d-dd9b-4452-bd05-28e9c0d85611" />
+
+##Expectativa vs Realidad
 <img width="1902" height="880" alt="iagenReference" src="image.png">
